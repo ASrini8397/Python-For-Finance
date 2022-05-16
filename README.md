@@ -9,3 +9,6 @@ Here is an example from the Monte Carlo Simulations I ran to find the optimal po
 
 Here is an example of the performance of an equally weighted portfolio versus individual stock cumulative returns
 <img width="1188" alt="Screenshot 2022-05-15 at 21 46 49" src="https://user-images.githubusercontent.com/98121213/168521537-e302ce89-e6f4-44d2-b5d0-910b2666c08d.png">
+
+The dotted black line is the Efficient Frontier that was found from 5000 randomly generated portfolios using a Monte Carlo Simulation
+<img width="1200" alt="Screenshot 2022-05-16 at 10 57 33" src="https://user-images.githubusercontent.com/98121213/168654105-1a0aa154-d097-471f-a13b-8a1b30970c12.png">
